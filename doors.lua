@@ -1,4 +1,5 @@
---Made by Big Floppa#9747
+--Made by thecatreal
+-- probably outdated
 
 do
 	local v0 = 0;
